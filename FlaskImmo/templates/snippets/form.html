@@ -1,0 +1,34 @@
+<form action="/" method="POST">
+    <div class="form-row">
+      <div class="col-sm-2 my-1">
+        <label for="vehicule" class="sr-only">New vehicule:</label>
+        <input type="text" class="form-control" name="vehicule" id="newvehicule" placeholder="Enter new vehicule">
+      </div>
+      <div class="col-sm-2 my-1">
+        <label for="newmontant" class="sr-only">New montant:</label>
+        <input type="text" class="form-control" name="montant" id="newmontant" placeholder="Enter new montant">
+      </div>
+      <div class="col-sm-2 my-1">
+        <label for="dateVirement" class="sr-only">New dateVirement:</label>
+        <input type="text" class="form-control" name="dateVirement" id="newdateVirement" placeholder="Enter new dateVirement">
+      </div>
+      <div class="col-sm-2 my-1">
+        <label for="numResa" class="sr-only">New numResa:</label>
+        <input type="text" class="form-control" name="numResa" id="newnumResa" placeholder="Enter new numResa">
+      </div>
+      <div class="col-sm-1 my-1">
+        <label for="newref" class="sr-only">New ref:</label>
+        <input type="text" class="form-control" name="ref" id="newfuel" placeholder="Enter new ref">
+      </div>
+  
+      <div class="col-sm-2 my-1">
+        <button type="submit" class="btn btn-primary btn-block">Add</button>
+      </div>
+
+
+      <div class="col-sm-1 my-1">
+        <label for="logout" class="sr-only">Logout:</label>
+        <p><a href="{{ url_for('logout') }}">Logout</a></p>  <!--logout here is the name of function and not the link of url-->
+      </div>
+    </div>
+  </form>
