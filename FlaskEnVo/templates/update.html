@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+
+<body>
+
+  {% extends 'base.html' %}
+
+  {% block content %}
+  <div class="container">
+    <h1 class="my-4">Update Data</h1>
+    <form action="/update/{{ car.id }}" method="POST">
+      <div class="form-row">
+        <div class="col-sm-2 my-1">
+          <input type="text" class="form-control" name="brand" value="{{ car.brand }}" >
+        </div>
+        <div class="col-sm-2 my-1">
+          <input type="text" class="form-control" name="model" value="{{ car.model }}">
+        </div>
+        <div class="col-sm-2 my-1">
+          <input type="text" class="form-control" name="prices" value="{{ car.prices }}">
+        </div>
+        <div class="col-sm-1 my-1">
+          <input type="text" class="form-control" name="year" value="{{ car.year }}">
+        </div>
+        <div class="col-sm-1 my-1">
+          <input type="text" class="form-control" name="fuel" value="{{ car.fuel }}">
+        </div>
+        <div class="col-sm-2 my-1">
+          <input type="text" class="form-control" name="kms" value="{{ car.kms }}">
+        </div>
+        <div class="col-sm-2 my-1">
+          <button type="submit" class="btn btn-primary btn-block">Update</button>
+        </div>
+      </div>
+    </form>
+  </div>
+  {% endblock content %}
+</body>
+
+</html>

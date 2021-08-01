@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Villenave value items</title>
+</head>
+
+<body>
+
+    {% extends 'base.html' %}
+
+    {% block content %}
+    <div class="container">
+      <h1 class="my-4">Flask Mico cars CRUD</h1>
+      <h3>cars values</h3>
+      <label>brand</label>
+      <p>{{car.brand}}</p>
+      <label>model</label>
+      <p>{{car.model}}</p>
+      <label>prices</label>
+      <p>{{car.prices}}</p>
+      <label>year</label>
+      <p>{{car.year}}</p>
+      <label>fuel</label>
+      <p>{{car.fuel}}</p>
+      <label>kms</label>
+      <p>{{car.kms}}</p>
+    </div>
+    {% endblock content %}
+</body>
+
+</html>

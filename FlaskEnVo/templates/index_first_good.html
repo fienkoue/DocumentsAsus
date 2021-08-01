@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head>
+
+<body>
+
+    {% extends 'base.html' %}
+
+    {% block content %}
+    <div class="container">
+      <h1 class="my-4">Flask CRUD</h1>
+      {% if cars|length < 1 %}
+      <p>There is nothing to buy for now.</p>
+      {% else %}
+      <table class="table">
+        <thead>
+          <tr>
+            <th>brand</th>
+            <th>model</th>
+            <th>prices</th>
+            <th>year</th>
+            <th>fuel</th>
+            <th>kms</th>
+            <th>Deleting tabs</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for car in cars %}
+          <tr>
+            <td><a href="/update/{{ car.id }}">{{ car.brand }}</a></td>
+            <td>{{ car.model }}</td>
+            <td>{{ car.prices }}</td>
+            <td>{{ car.year }}</td>
+            <td>{{ car.fuel }}</td>
+            <td>{{ car.kms }}</td>
+            <td class="text-right"><a class="btn btn-danger btn-sm" href="/delete/{{ car.id }}" role="button">Delete</a></td>
+            
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+      {% endif %}
+    
+      {% include 'snippets/form.html' %}
+    </div>
+    {% endblock content %}
+</body>
+
+</html>

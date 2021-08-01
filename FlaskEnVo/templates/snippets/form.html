@@ -1,0 +1,37 @@
+<form action="/" method="POST">
+    <div class="form-row">
+      <div class="col-sm-2 my-1">
+        <label for="newbrand" class="sr-only">New brand:</label>
+        <input type="text" class="form-control" name="brand" id="newbrand" placeholder="Enter new brand">
+      </div>
+      <div class="col-sm-2 my-1">
+        <label for="newmodel" class="sr-only">New model:</label>
+        <input type="text" class="form-control" name="model" id="newmodel" placeholder="Enter new model">
+      </div>
+      <div class="col-sm-2 my-1">
+        <label for="prices" class="sr-only">New prices:</label>
+        <input type="text" class="form-control" name="prices" id="newprices" placeholder="Enter new prices">
+      </div>
+      <div class="col-sm-1 my-1">
+        <label for="newyear" class="sr-only">New year:</label>
+        <input type="text" class="form-control" name="year" id="newyear" placeholder="Enter new year">
+      </div>
+      <div class="col-sm-1 my-1">
+        <label for="newfuel" class="sr-only">New fuel:</label>
+        <input type="text" class="form-control" name="fuel" id="newfuel" placeholder="Enter new fuel">
+      </div>
+      <div class="col-sm-1 my-1">
+        <label for="newkms" class="sr-only">New kms:</label>
+        <input type="text" class="form-control" name="kms" id="newkms" placeholder="Enter new kms">
+      </div>
+      <div class="col-sm-2 my-1">
+        <button type="submit" class="btn btn-primary btn-block">Add</button>
+      </div>
+
+
+      <div class="col-sm-1 my-1">
+        <label for="logout" class="sr-only">Logout:</label>
+        <p><a href="{{ url_for('logout') }}">Logout</a></p>
+      </div>
+    </div>
+  </form>

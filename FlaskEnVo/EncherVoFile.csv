@@ -1,0 +1,375 @@
+brand,model,prices,year,fuel,kms
+renault,clio.iv ste dci90 air medianav 5p,4400,2017,Diesel,63944
+peugeot,308 ste 1.6 hdi90 pack cd clim confort 5p,1700,2014,Diesel,127935
+peugeot,boxer 333 l1h2 hdi110 premium,9400,2018,Diesel,103982
+peugeot,308 ste 1.6 hdi100 premium 5p,5400,2018,Diesel,109115
+peugeot,boxer 335 l3h2 hdi130,13400,2017,Diesel,74190
+peugeot,partner long 1.6 hdi100 premium,8800,2018,Diesel,116071
+volkswagen,crafter 35 l2h2 tdi136,5400,2013,Diesel,103256
+peugeot,308 ste 1.6 hdi120 feline ba 5p,8900,2016,Diesel,38637
+peugeot,208 ste 1.6 hdi75 active business 5p,5300,2017,Diesel,109933
+peugeot,boxer 333 l1h1 hdi110 premium,8400,2017,Diesel,121782
+renault,kangoo dci90 grand confort,3900,2016,Diesel,140709
+ford,transit 300ls tdci125,4400,2013,Diesel,144784
+peugeot,partner std 1.6 hdi100 premium,7900,2016,Diesel,90589
+fiat,panda ste 1.3 jtd75 easy,1900,2013,Essence,116396
+renault,clio.iv ste dci75 air 5p,3400,2016,Diesel,85830
+peugeot,308 ste 1.6 hdi100 premium 5p,4400,2017,Diesel,135600
+citroen,c3 ste 1.6 hdi100 confort 5p,3300,2016,Diesel,119416
+peugeot,308.sw ste 1.6 hdi100 active business,6700,2016,Diesel,120891
+citroen,c3 ste 1.6 hdi100 feel 5p,4500,2017,Diesel,70359
+peugeot,boxer 330 l1h1 hdi100 cd clim,5400,2011,Diesel,191771
+nissan,athleon 56.13 frigo,5200,2005,Diesel,198477
+nissan,nv200 1.5 dci90 optima,4700,2017,Diesel,187245
+peugeot,2008 ste 1.6 hdi100 style,4100,2015,Diesel,215274
+fiat,ducato 3.0 mh2 jtd115 pack,3600,2013,Diesel,180314
+renault,kangoo dci90 grand confort,1700,2013,Diesel,218661
+opel,movano f3300 l2h2 cdti100,2100,2012,Diesel,206955
+ford,transit 350mj td115 benne,2900,2005,Diesel,180281
+renault,megane.iii ste dci95 air 5p,1900,2014,Diesel,187302
+opel,vivaro f2900 c1 cdti90,900,2011,Diesel,236011
+mercedes,sprinter 316 cdi messagerie ba,3900,2015,Diesel,289176
+renault,trafic l1h1 dci115 grand confort,2400,2012,Diesel,205261
+fiat,ducato 3.0 mh2 jtd100 pack cd clim,3400,2010,Diesel,162194
+peugeot,308 ste 1.6 hdi100 premium pack 5p,3300,2018,Diesel,181920
+volkswagen,transporter l2h1 tdi180 ba,11900,2015,Diesel,177443
+citroen,c5 1.6 hdi112 business,4800,2015,Diesel,123243
+volkswagen,polo 1.2 united 5p,1400,2008,Essence,160585
+dacia,sandero 1.5 dci85 blackline,1800,2010,Diesel,124833
+citroen,c4 1.6 hdi92 pack ambiance 5p,1450,2006,Diesel,289050
+renault,clio.iv ste dci90 air medianav 5p,3500,2016,Diesel,86832
+opel,zafira 2.0 dti100 ,400,2004,Diesel,354981
+peugeot,boxer l4 hdi130 demenagement,4400,2016,Diesel,238530
+opel,mokka 1.6 cdti136 cosmo,6400,2015,Diesel,155859
+citroen,c4 picasso 1.6 hdi110 attraction,3200,2013,Diesel,152203
+nissan,nv300 l1h1 dci120 optima,4400,2017,Diesel,58645
+mercedes,sprinter 313 37s 3t2,1900,2010,Diesel,312931
+opel,corsa ste cdti75 pack clim 3p,500,2010,Diesel,275105
+nissan,qashqai 1.6 dci130 connect edition,4900,2012,Diesel,174763
+citroen,c4 1.6 hdi92 pack,100,2008,Diesel,319235
+renault,scenic.ii 1.5 dci85 expression,100,2007,Diesel,298676
+renault,clio.iv ste dci90 air media nav 5p,2900,2014,Diesel,102625
+renault,clio.iii.brk 1.5 dci90 expression clim,400,2011,Diesel,128255
+renault,grand scenic.ii 1.5 dci105 confort dynamique,100,2006,Diesel,185916
+mbk,yp125,100,2010,Essence,23930
+bmw i,i3 170ch 94ah +connected,18900,2018,EE,15886
+ford,s-max 2.0 tdci150 vignale ba,15390,2018,Diesel,96866
+citroen,c5 aircross 1.6 puretech 180 shine ba,20800,2019,Essence,7825
+fiat,tipo 1.6 jtd120 easy,11400,2018,Diesel,31619
+citroen,grand c4 picasso 1.6 hdi120 feel,10700,2017,Diesel,49341
+audi,a4.avant 2.0 tdi150 s line ba,22650,2019,Diesel,74927
+ds,ds7 crossback 2.0 hdi180 grand chic eat8,25700,2019,Diesel,35772
+dacia,lodgy 1.5 dci110 stepway,6900,2017,Diesel,53798
+peugeot,308 1.5 hdi100 active 5p,8900,2018,Diesel,96426
+nissan,qashqai 1.5 dci115 business edition,12500,2019,Diesel,63499
+peugeot,208 1.2 puretech82 signature 5p,8300,2019,Essence,26549
+bmw,216 d active tourer lounge ba,14400,2018,Diesel,53879
+citroen,c4 picasso 1.2 puretech live,12700,2018,Essence,28580
+peugeot,308 ste 1.6 hdi100 premium pack 5p,8500,2017,Diesel,58397
+fiat,500x 1.6 jtd120 cross,10500,2017,Diesel,41675
+renault,captur 1.2 tce120 intens ba,9400,2017,Essence,26596
+audi,q8 3.0 tdi285 quattro s line ba,49150,2019,GH,34148
+volkswagen,touran 2.0 tdi150 carat ba,16000,2017,Diesel,53941
+fiat,500 1.2 lounge,7200,2018,Essence,9226
+skoda,superb 1.6 tdi120 ba,12700,2018,Diesel,105918
+ford,ecosport 1.0 titanium ,9790,2018,Essence,21206
+renault,twingo 0.9 tce90 intens,9190,2018,Essence,21896
+fiat,tipo sw 1.6 jtd120 easy,9400,2018,Diesel,45249
+peugeot,5008 1.6 hdi120 active business ba,13100,2018,Diesel,109804
+renault,captur 1.5 dci110 business,13850,2018,Diesel,23078
+fiat,500 1.2 lounge,6800,2018,Essence,16023
+peugeot,308.sw 1.5 hdi100 active business,7700,2018,Diesel,100004
+renault,captur 1.5 dci110 business,13590,2018,Diesel,30813
+renault,clio.iv 0.9 tce90 intens 5p,11250,2018,Essence,23415
+renault,kadjar 1.6 tce165 intens,12400,2018,Essence,44874
+citroen,grand c4 picasso 1.6 hdi120 business +,7900,2018,Diesel,139273
+renault,captur 1.5 dci90 intens ba,11400,2018,Diesel,48200
+fiat,500 1.2 lounge,7600,2018,Essence,21032
+nissan,leaf 109ch acenta,14100,2017,Electrique,37201
+mercedes,gla 180 d inspiration,17965,2018,Diesel,111510
+peugeot,308 1.6 hdi120 allure,10700,2017,Diesel,75398
+peugeot,208 1.0 puretech68 like 5p,5900,2016,Essence,43513
+nissan,qashqai 1.2 dig-t115 tekna,11900,2017,Essence,35336
+peugeot,2008 1.6 hdi120 crossway,12100,2017,Diesel,54552
+peugeot,5008 1.5 hdi130 active business ba,18390,2018,Diesel,86454
+renault,captur 1.5 dci90 business,9100,2018,Diesel,42347
+renault,clio.iv 0.9 tce90 intens 5p,11250,2018,Essence,23865
+peugeot,5008 1.6 hdi120 active business ba,9900,2018,Diesel,135300
+nissan,x-trail 1.6 dci130 tekna ba,14900,2018,Diesel,42857
+hyundai,i20 1.2 edition navi,4200,2018,Essence,28145
+renault,clio.iv 1.5 dci90 business 5p,6100,2017,Diesel,122991
+renault,scenic.iv 1.5 dci110 business ba,7300,2017,Diesel,132860
+renault,kadjar 1.6 dci130 intens,9300,2018,Diesel,124450
+renault,grand scenic.iv 1.5 dci110 business,8700,2017,Diesel,134521
+peugeot,508.sw 1.6 hdi120 active business eat6,6900,2017,Diesel,122768
+ford,ecosport 1.0 titanium ,8990,2018,Essence,47774
+renault,clio.iv 0.9 tce90 intens 5p,11250,2018,Essence,25040
+renault,kadjar 1.5 dci115 intens,13300,2018,Diesel,51490
+bmw,216 d active tourer business ba,13400,2017,Diesel,49590
+peugeot,308 1.5 hdi100 active 5p,8300,2018,Diesel,88066
+nissan,x-trail 1.6 dci130 tekna ba,14300,2018,Diesel,68260
+citroen,c4 picasso 1.6 hdi100 business,8300,2017,Diesel,101730
+fiat,500 1.2 lounge,6900,2018,Essence,33301
+nissan,x-trail 1.6 dci130 tekna ba,15400,2017,Diesel,20578
+citroen,c4 picasso 1.6 hdi120 business,6700,2017,Diesel,118767
+nissan,leaf 24kwh visia,8300,2016,Electrique,10621
+citroen,c5 tourer 2.0 hdi160 exclusive ba,5100,2013,Diesel,129799
+renault,kadjar 1.5 dci110 intens  ,12700,2017,Diesel,24107
+renault,clio.iv 0.9 tce90 business 5p,7900,2018,Essence,25473
+renault,captur 1.5 dci110 intens,8900,2017,Diesel,27272
+citroen,grand c4 picasso 2.0 hdi150 business,8900,2016,Diesel,114641
+peugeot,308 2.0 hdi180 gt eat6 5p,12600,2015,Diesel,92618
+peugeot,ion electrique active,5500,2015,Electrique,40305
+renault,kadjar 1.6 dci130 black edition,12400,2017,Diesel,54715
+peugeot,2008 1.2 puretech 82 style,8400,2017,Essence,57954
+peugeot,508.sw 2.0 hdi180 feline eat6,8800,2016,Diesel,119881
+nissan,x-trail 1.6 dci130 tekna ba,15100,2017,Diesel,33337
+renault,twingo 0.9 tce90 intens,8490,2018,Essence,36092
+renault,kadjar 1.6 dci130 black edition,12900,2017,Diesel,38901
+peugeot,308.sw 1.6 hdi120 active business,7700,2016,Diesel,76006
+nissan,x-trail 1.6 dci130 tekna,13300,2017,Diesel,34981
+renault,scenic.iv 1.5 dci95 life,6800,2017,Diesel,119231
+peugeot,508.sw 2.0 hdi150 active business,6900,2015,GH,159854
+renault,clio.iv 0.9 tce90 business 5p,7600,2018,Essence,31493
+nissan,x-trail 1.6 dci130 tekna ba,14900,2017,Diesel,41016
+volkswagen,passat.sw 1.6 tdi120 confortline business,8900,2017,Diesel,105879
+renault,kadjar 1.6 dci130 intens,12900,2017,Diesel,47861
+fiat,500 1.2 lounge,6900,2018,Essence,46801
+nissan,x-trail 1.6 dci130 tekna,13700,2017,Diesel,45846
+audi,a6 quattro 3.0 tdi ambition luxe stro.,12700,2011,Diesel,146943
+land rover,range rover velar 2.0 d 240 r-dynamic se ba,37900,2017,Diesel,49338
+renault,grand scenic.iv 1.5 dci110 business ba,9090,2017,Diesel,125848
+renault,clio.iv 0.9 tce90 intens 5p,10850,2018,Essence,32298
+nissan,x-trail 1.6 dci130 tekna,13300,2017,Diesel,48734
+bmw,216 d active tourer business ba,12600,2017,Diesel,73886
+citroen,c4 picasso 1.6 hdi120 feel edition eat6,8900,2015,Diesel,118633
+bmw,116 d edition lounge 5p,6900,2013,Diesel,98588
+peugeot,208 1.2 vti style 5p,6300,2014,Essence,61010
+nissan,qashqai 1.6 dci130 n-connecta ,12900,2017,Diesel,70541
+peugeot,2008 1.6 hdi100 style,9400,2017,Diesel,76044
+peugeot,308 1.6 hdi100 active business 5p,7700,2016,Diesel,87137
+volkswagen,polo 1.4 tdi75 trendline 5p,4350,2015,Diesel,93132
+land rover,evoque 2.2 td4 pure,14200,2015,Diesel,86696
+peugeot,308.sw 1.6 hdi120 active business ba,7700,2018,Diesel,105870
+peugeot,2008 1.2 puretech 82 style,7700,2016,Essence,66461
+citroen,c3 1.2 puretech 82 shine 5p,7400,2018,Essence,60309
+peugeot,3008 1.6 hdi120 allure,14900,2017,Diesel,57652
+renault,clio.iv 0.9 tce90 intens 5p,10250,2018,Essence,41155
+nissan,x-trail 1.6 dci130 tekna ba,12900,2017,Diesel,56189
+citroen,ds5 hybrid sport chic bmp6,8200,2013,GH,137249
+volkswagen,tiguan 2.0 tdi150 carat ba,16150,2017,Diesel,58445
+nissan,x-trail 1.6 dci130 tekna ba,13300,2017,Diesel,57156
+opel,meriva 1.6 cdti110 cosmo ,6700,2016,Diesel,80570
+renault,captur 1.5 dci90 business,9190,2017,Diesel,61360
+citroen,c4 aircross 1.6 e-hdi115 feel edition,10700,2016,Diesel,74792
+renault,clio.iv 0.9 tce90 business 5p,7300,2018,Essence,59421
+nissan,x-trail 1.6 dci130 tekna,13100,2017,Diesel,59914
+citroen,c4 picasso 1.6 hdi120 intensive eat6 ,9400,2015,Diesel,123074
+renault,captur 1.5 dci90 intens ,8700,2017,Diesel,62741
+opel,zafira 2.0 cdti170 cosmo pack  ,4400,2016,Diesel,128950
+peugeot,108 1.2 puretech82 collection 5p ,6100,2017,Essence,16984
+nissan,x-trail 1.6 dci130 tekna,12900,2017,Diesel,59965
+renault,clio.iv 0.9 tce90 business 5p,6700,2017,Essence,59948
+renault,megane.iv 1.5 dci90 business 5p,9800,2017,Diesel,48697
+renault,captur 1.5 dci90 business,7900,2016,Diesel,67181
+renault,captur 1.5 dci90 business ba,7900,2016,Diesel,69690
+citroen,c5 2.0 hdi160 exclusive ba,5900,2011,Diesel,66658
+nissan,x-trail 1.6 dci130 tekna,12500,2017,Diesel,67346
+peugeot,3008 1.6 hdi120 gt line ba,15900,2017,Diesel,71818
+peugeot,208 1.6 hdi100 active 5p,6400,2017,Diesel,84716
+nissan,qashqai 1.5 dci110 acenta,8900,2017,Diesel,73732
+toyota,yaris 90 d-4d technoline 5p,6900,2017,Diesel,98018
+renault,captur 1.5 dci110 intens,8900,2017,Diesel,75088
+renault,scenic.iii 1.5 dci110 business,4600,2013,Diesel,131144
+nissan,qasqhai 1.6 dci130 tekna ba,11700,2017,Diesel,73878
+renault,scenic.iii 1.5 dci110 business,6490,2015,Diesel,98488
+peugeot,5008 1.6 hdi120 gt line ba,16900,2017,Diesel,76249
+citroen,c4 1.6 hdi100 millenium 5p,8900,2017,Diesel,107459
+nissan,x-trail 1.6 dci130 tekna ba,12700,2017,Diesel,79532
+renault,kadjar 1.6 dci130 black edition,11300,2017,Diesel,81863
+citroen,c4 picasso 1.6 e-hdi115 confort etg6,4730,2013,Diesel,132669
+nissan,juke 1.5 dci110 n-connecta,8400,2017,Diesel,84127
+nissan,x-trail 1.6 dci130 tekna,11400,2017,Diesel,97079
+peugeot,208 1.2 puretech110 roland garros 5p,7400,2016,Essence,72357
+renault,kadjar 1.6 dci130 intens,10900,2016,Diesel,53058
+peugeot,208 1.6 hdi100 active business 5p,5900,2017,Diesel,106412
+peugeot,3008 1.6 hdi120 style,9600,2016,Diesel,75350
+peugeot,ion electrique active,4400,2015,Electrique,41892
+renault,kadjar 1.6 dci130 intens,9900,2016,Diesel,54300
+peugeot,208 1.6 hdi100 active 5p,7900,2016,Diesel,72969
+renault,captur 1.5 dci90 intens ,6300,2016,Diesel,89402
+volkswagen,polo 1.6 tdi90 sportline 5p,4300,2011,Diesel,94130
+nissan,x-trail 1.6 dci130 tekna,11700,2016,Diesel,94247
+renault,megane.iii.brk 1.5 dci110 business ba,5900,2015,Diesel,146713
+hyundai,ix35 1.7 crdi115 pack premium,8200,2014,Diesel,99834
+peugeot,208 1.4 hdi active bmp5 5p,4900,2012,Diesel,42747
+citroen,c3 1.6 hdi75 confort 5p,5400,2016,Diesel,119676
+peugeot,308 1.6 hdi120 active business 5p,7700,2017,Diesel,112813
+renault,captur 1.5 dci90 business,8890,2017,Diesel,99962
+renault,clio.iv.brk 1.5 dci90 business,4900,2016,Diesel,135569
+peugeot,3008 1.6 hdi120 active business,11700,2018,Diesel,110250
+peugeot,308.sw 1.6 hdi120 allure eat6,6700,2016,Diesel,138775
+ford,c-max 1.5 tdci95 titanium,6100,2016,Diesel,128467
+volkswagen,up 1.0 take up 3p,2600,2012,Essence,119423
+peugeot,3008 1.6 hdi120 active business,12800,2016,Diesel,109639
+citroen,ds5 2.0 hdi180 sport chic ba,10900,2016,Diesel,119261
+peugeot,508 1.6 e-hdi115 business pack bmp6,4900,2013,Diesel,113077
+citroen,c5 tourer 3.0 hdi240 exclusive ba,3500,2011,Diesel,175381
+peugeot,308 1.6 hdi100 style 5p,7400,2016,Diesel,120706
+volkswagen,polo 1.4 tdi75 trendline 5p,3700,2015,Diesel,139572
+peugeot,308 1.6 hdi100 active business 5p,6900,2017,Diesel,133621
+nissan,x-trail 1.6 dci130 tekna ba,12200,2018,Diesel,85504
+peugeot,3008 1.6 hdi120 active business ba,12300,2017,Diesel,106892
+renault,kadjar 1.5 dci110 zen,7500,2016,Diesel,132945
+citroen,c3 1.4 hdi70 rossignol 5p,3100,2012,Diesel,71834
+peugeot,2008 1.6 hdi100 allure,6900,2016,Diesel,106781
+peugeot,208 1.6 hdi100 style 5p,5700,2017,Diesel,119936
+chevrolet,malibu 2.0 vcdi 160 ltz,5700,2014,Diesel,130015
+renault,clio.iv 1.5 dci90 business 5p,3700,2014,Diesel,148549
+hyundai,ix35 1.7 crdi115 pack business,8550,2014,Diesel,126928
+dacia,sandero 1.5 dci90 stepway,2300,2011,Diesel,150292
+peugeot,3008 1.6 hdi120 allure ba,14900,2017,Diesel,121478
+peugeot,208 1.6 hdi100 active 5p,5300,2017,Diesel,168776
+renault,captur 1.5 dci90 intens ,7400,2015,Diesel,148579
+renault,clio.ii 1.2 16v campus.com 5p,1400,2011,Essence,100700
+peugeot,3008 1.6 hdi115 allure,4900,2013,Diesel,124454
+peugeot,308 1.6 e-hdi115 allure 5p,7100,2013,Diesel,122281
+ford,kuga 2.0 tdci140 trend,6400,2012,Diesel,149209
+peugeot,208 1.6 hdi100 active 5p,5700,2017,Diesel,131584
+nissan,juke 1.5 dci110 connect edition,6200,2013,Diesel,125867
+nissan,note 1.5 dci90 life+,3800,2013,Diesel,137315
+ford,kuga 2.0 tdci140 titanium,7800,2012,Diesel,157486
+dacia,sandero 1.5 dci90 stepway ambiance,3400,2014,Diesel,152446
+peugeot,3008 1.6 hdi120 allure business ba,15290,2017,Diesel,109386
+volkswagen,polo 1.6 tdi90 confortline 5p,4900,2012,Diesel,109814
+peugeot,2008 1.6 hdi90 allure,5900,2014,Diesel,114884
+ford,ka 1.2 titanium,2400,2012,Essence,78986
+renault,captur 1.5 dci90 intens ,7300,2015,Diesel,20565
+opel,meriva 1.7 cdti110 cosmo pack,2900,2013,Diesel,128678
+ford,fiesta 1.25 trend 3p,2900,2011,Essence,50992
+citroen,grand c4 picasso 1.6 hdi110 exclusive bmp6,2500,2011,Diesel,122054
+citroen,c3 1.6 hdi100 confort business 5p,4900,2016,Diesel,115156
+peugeot,3008 1.6 hdi120 active business,7700,2016,Diesel,112727
+audi,a1 sportback 1.0 tfsi95 s line,8400,2015,Essence,107443
+peugeot,3008 1.6 hdi115 allure,6900,2013,Diesel,61766
+peugeot,208 1.4 hdi68 active 5p,5790,2015,Diesel,73339
+renault,kadjar 1.5 dci110 intens  ,8900,2018,Diesel,104058
+peugeot,3008 hybrid 2.0 e-hdi bmp6,6500,2012,GH,128753
+hyundai,ix35 2.0 crdi184 pack premium ba,6200,2010,Diesel,160449
+mini,mini cooper pack chili ba,5300,2009,Essence,84876
+peugeot,208 1.6 e-hdi92 feline 5p,6200,2014,Diesel,117294
+peugeot,508.sw rxh 2.0 hdi bmp6,6700,2013,GH,162826
+citroen,c4 1.6 hdi90 attraction 5p,2400,2013,Diesel,211499
+mini,clubman cooper d pack chili,4900,2009,Diesel,168665
+citroen,c4 picasso 1.6 e-hdi115 confort etg6,3100,2014,Diesel,229151
+volkswagen,polo.v 1.6 tdi90 sportline ba 3p,3300,2010,Diesel,181472
+audi,q3 2.0 tdi177 attraction ba,8450,2012,Diesel,166557
+citroen,ds3 1.6 thp sport chic,2600,2011,Essence,163229
+citroen,c4 1.6 hdi92 attraction 5p,1700,2009,Diesel,164494
+peugeot,207 1.6 hdi92 premium 5p,2400,2010,Diesel,168428
+renault,kangoo 1.5 dci85 privilege,3200,2009,Diesel,144496
+peugeot,207 1.4 hdi70 premium 3p,1900,2009,Diesel,170530
+volkswagen,combi 2.0 tdi140,11900,2011,Diesel,239879
+peugeot,508.sw 2.0 hdi140 allure,8500,2015,Diesel,217791
+volkswagen,touran 1.6 tdi105 cup,6400,2014,Diesel,178136
+bmw,x3 xdrive20d luxe,7900,2011,Diesel,180682
+bmw,116 d business 5p,5400,2012,Diesel,181214
+citroen,c4 aircross 1.6 e-hdi115 ,6900,2016,Diesel,166251
+ds,ds5 1.6 hdi120 so chic eat6,6400,2016,Diesel,179836
+volkswagen,touran 2.0 tdi140 confortline business,6400,2011,Diesel,230668
+bmw,x3 1.8 d limited sport edition,6300,2010,Diesel,176247
+volkswagen,touran 1.6 tdi105 confortline ba,5800,2011,Diesel,164386
+volkswagen,golf.vi 1.6 tdi105 confortline 5p,5400,2011,Diesel,186071
+peugeot,3008 1.6 e-hdi115 napapijri bmp6,4950,2013,Diesel,194969
+audi,a3 1.6 tdi105 ambiente 3p,5150,2011,Diesel,172563
+volvo,v60 d2 115 momentum business ba,4900,2012,Diesel,166884
+nissan,juke 1.5 dci110 acenta,4600,2013,Diesel,163307
+peugeot,5008 1.6 hdi112 style,4900,2013,Diesel,174726
+nissan,qashqai 1.5 dci110 acenta,3900,2012,Diesel,206674
+opel,insignia.brk 2.0 cdti160 cosmo pack ba,3600,2011,Diesel,185361
+citroen,c4 picasso 1.6 hdi110 confort,3800,2011,Diesel,165631
+peugeot,3008 1.6 hdi112 active,3700,2012,Diesel,186956
+mercedes,a 180 cdi elegance ba 5p,3400,2010,Diesel,172553
+nissan,qashqai+2 1.6 dci130 360,5900,2013,Diesel,168369
+peugeot,207 1.4 hdi70 active 5p,1500,2010,Diesel,147195
+hyundai,i40.sw 1.7 crdi136 pack premium,3600,2012,Diesel,225495
+peugeot,3008 1.6 hdi115 access,3400,2013,Diesel,206446
+peugeot,207 1.6 hdi90 premium 5p,3500,2010,Diesel,151557
+volkswagen,eos 2.0 fsi sport ,3400,2007,Essence,186847
+opel,zafira 1.7 cdti125 connect pack,2900,2011,Diesel,169156
+peugeot,3008 2.0 hdi150 business pack,3100,2012,Diesel,221571
+ford,focus 1.6 tdci115 titanium 5p,3200,2011,Diesel,185756
+nissan,micra 1.2 connect edition 3p,2900,2010,Essence,82630
+audi,a3 2.0 tdi140 ambition 3p,3100,2007,Diesel,202790
+renault,megane.iii 1.5 dci110 expression 5p,2900,2012,Diesel,183430
+citroen,c4 picasso 2.0 hdi138 pack dynamique bmp6,2900,2008,Diesel,192733
+peugeot,308.sw 1.6 hdi112 business pack bmp6,2800,2012,Diesel,185898
+renault,grand scenic.iii 1.5 dci105 dynamique,2500,2009,Diesel,155398
+peugeot,207 1.4 hdi70 urban 5p,2600,2008,Diesel,113527
+honda,fr-v 2.2 i-cdti comfort pack,2200,2005,Diesel,157396
+lexus,rx 300 pack luxe ba,5900,2005,Essence,69011
+renault,clio.iii 1.5 dci70 authentique 5p,1850,2007,Diesel,160929
+renault,megane.iii 1.5 dci105 dynamique 5p,1650,2009,Diesel,201077
+peugeot,207 1.6 hdi90 urban 3p,1700,2007,Diesel,89070
+renault,grand scenic.iii 1.5 dci105 carminat tom tom,2600,2009,Diesel,130589
+renault,clio.iii.brk 1.5 dci85 dynamique,1700,2009,Diesel,143841
+peugeot,3008 1.6 hdi110 premium pack,3100,2009,Diesel,156719
+peugeot,307 1.6 hdi90 confort pack 5p,1400,2007,Diesel,148546
+renault,modus 1.2 tce100 expression,1600,2008,Essence,106612
+citroen,c4 picasso 1.6 hdi110 exclusive,1700,2011,Diesel,224000
+opel,zafira 1.7 cdti125 edition,2300,2008,Diesel,170230
+kia,rio ste 1.1 crdi75 style,1900,2012,Diesel,175083
+citroen,c5 tourer 2.0 hdi140 confort,2200,2010,Diesel,186122
+nissan,qashqai+2 2.0 dci150 optima,2200,2010,Diesel,215625
+citroen,c1 1.0 confort 3p,1900,2009,Essence,119300
+renault,megane.cc 1.6 16v privilege,1900,2007,Essence,126768
+volvo,xc60 d5 185 xenium,1900,2008,Diesel,284282
+audi,a3 sportback 2.0 tdi140 ambition ba,2150,2005,Diesel,271315
+alfa romeo,159.sw 1.9 jtd150 distinctive,2100,2009,Diesel,179156
+nissan,x-trail 2.2 dci136 elegance,2100,2004,Diesel,267127
+suzuki,splash 1.6 ddis75 gls 5p,1700,2008,Diesel,147058
+renault,megane.iii.brk 1.9 dci130 dynamique,1900,2011,Diesel,248411
+fiat,panda 1.2 dynamic,1400,2011,Essence,179286
+fiat,doblo 1.9 jtd120 class,1200,2007,Diesel,233003
+ford,fusion 1.4 tdci68 plus,1600,2008,Diesel,62118
+citroen,c4 picasso 1.6 hdi110 collection bmp6,1900,2009,Diesel,152031
+opel,meriva 1.6 cosmo,1550,2007,Essence,161088
+renault,laguna.iii.brk 2.0 dci150 dynamique,1700,2009,Diesel,260763
+peugeot,206 + 1.4 hdi70 urban 5p,1500,2009,Diesel,175580
+peugeot,307 1.6 hdi110 confort pack 5p,1400,2006,Diesel,144553
+citroen,c3 1.4 hdi70 furio 5p,1400,2009,Diesel,192634
+fiat,grande punto 1.3 jtd75 active 5p,1100,2006,Diesel,157184
+renault,megane.cc 2.0 16v luxe privilege,1400,2006,Essence,104832
+peugeot,206.cc 2.0 16v,1400,2002,Essence,138409
+citroen,c4 1.6 hdi110 pack ambiance 5p,1200,2004,Diesel,248328
+hyundai,atos prime 1.1 pack,1150,2007,Essence,63417
+renault,espace.iv 3.0 dci180 privilege ba,1100,2006,Diesel,175549
+citroen,xsara 1.6 5p,1100,2002,Essence,92721
+chevrolet,matiz 0.8 ,1050,2005,Essence,133008
+renault,scenic.ii 1.9 dci130 jade,1000,2007,Diesel,175904
+opel,meriva 1.7 cdti enjoy,1000,2006,Diesel,181707
+renault,espace.iv 2.0 emotion,900,2008,Essence,201281
+citroen,c3 1.4 hdi70 pack clim 5p,900,2006,Diesel,199510
+renault,laguna.ii 1.6 16v authentique,800,2003,Essence,203895
+peugeot,206.sw 1.4 hdi x line clim,900,2005,Diesel,187870
+renault,megane.ii.brk 1.5 dci105 confort authentique,650,2006,Diesel,237070
+peugeot,307 2.0 hdi90 xr presence 5p,400,2002,Diesel,297758
+peugeot,206.ph2 1.4 hdi x line clim 5p,550,2005,Diesel,225814
+renault,scenic.ii 1.5 dci85 expression,400,2007,Diesel,253599
+citroen,c3 1.4 hdi70 pack clim 5p,400,2006,Diesel,176534
+renault,laguna.ii 1.9 dci120 expression,300,2003,Diesel,250982
+peugeot,206 1.4 hdi xr presence 3p,400,2004,Diesel,254384
+peugeot,206.ph2 1.4 hdi trendy 5p,100,2007,Diesel,222186
+alfa romeo,mito 1.4 mpi multiair selective,1500,2010,Essence,150676
+opel,zafira 1.9 cdti100 enjoy,1300,2008,Diesel,147595
+citroen,c3 1.4 hdi70 pack clim 5p,650,2006,Diesel,222082
+citroen,c5 1.6 hdi110,600,2006,Diesel,196355
+renault,clio.iii 1.5 dci85 expression 5p,1150,2007,Diesel,219715
+peugeot,308 1.6 e-hdi112 business pack 5p,1200,2013,Diesel,223127
+citroen,c4 picasso 1.6 hdi110 exclusive,1400,2007,Diesel,185637
+peugeot,206 1.6 roland garros ba 5p,400,2005,Essence,149491
+chrysler,pt cruiser 2.2 crd olympia,700,2007,Diesel,231500
+renault,scenic.ii 1.9 dci130 expression,1400,2007,Diesel,237705
+renault,clio.ii ph2 1.4 16v 5p,50,2002,Essence,72761
+renault,scenic.ii 1.5 dci105 confort expression,200,2005,Diesel,142625
+citroen,grand c4 picasso 2.0 hdi150 exclusive eat6,8400,2015,Diesel,119666
